@@ -13,7 +13,7 @@ I have professional experience in cybersecurity research, having conducted secur
 My main interests include security operations, threat detection, digital forensics, penetration testing, governance and risk, and secure software development.
 
 * I'm based in Portugal
-* See my portfolio at [My Portfolio](http://https://diogoma2002.github.io/)
+* See my portfolio at [My Portfolio](https://diogoma2002.github.io/)
 * You can contact me at [psvdiogo@gmail.com](mailto:psvdiogo@gmail.com)
 
 <p align="left">
