@@ -8,10 +8,10 @@
   <g font-family="Consolas, monospace" font-size="12" fill="#f2f0e8">
     <text x="55" y="23" fill="#98988e">diogo@github: ~</text>
     <text x="26" y="65" fill="#c7ff18">$ github linguist</text>
-    <text x='26' y='106'>Java</text><rect x='178' y='98' width='79' height='7' rx='2' fill='#c7ff18'/><text x='396' y='106' text-anchor='end'>52.8 %</text>
-<text x='26' y='124'>Vue</text><rect x='178' y='116' width='51' height='7' rx='2' fill='#c7ff18'/><text x='396' y='124' text-anchor='end'>34.1 %</text>
+    <text x='26' y='106'>Java</text><rect x='178' y='98' width='78' height='7' rx='2' fill='#c7ff18'/><text x='396' y='106' text-anchor='end'>52.2 %</text>
+<text x='26' y='124'>Vue</text><rect x='178' y='116' width='51' height='7' rx='2' fill='#c7ff18'/><text x='396' y='124' text-anchor='end'>33.7 %</text>
 <text x='26' y='142'>CSS</text><rect x='178' y='134' width='6' height='7' rx='2' fill='#c7ff18'/><text x='396' y='142' text-anchor='end'>4.2 %</text>
-<text x='26' y='160'>HTML</text><rect x='178' y='152' width='5' height='7' rx='2' fill='#c7ff18'/><text x='396' y='160' text-anchor='end'>3.1 %</text>
-<text x='26' y='178'>JavaScript</text><rect x='178' y='170' width='4' height='7' rx='2' fill='#c7ff18'/><text x='396' y='178' text-anchor='end'>2.9 %</text><text x='26' y='203' fill='#98988e'>BY BYTES / PUBLIC REPOSITORIES</text>
+<text x='26' y='160'>HTML</text><rect x='178' y='152' width='6' height='7' rx='2' fill='#c7ff18'/><text x='396' y='160' text-anchor='end'>3.8 %</text>
+<text x='26' y='178'>JavaScript</text><rect x='178' y='170' width='4' height='7' rx='2' fill='#c7ff18'/><text x='396' y='178' text-anchor='end'>2.8 %</text><text x='26' y='203' fill='#98988e'>BY BYTES / PUBLIC REPOSITORIES</text>
   </g>
 </svg>
