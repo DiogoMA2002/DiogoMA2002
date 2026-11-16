@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="312" viewBox="0 0 960 312" role="img" aria-labelledby="title">
+  <title id="title">Diogo Andrade · Computer Engineer · Cybersecurity &amp; Digital Forensics</title>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 H 0 V 24" fill="none" stroke="#34342e" opacity=".5"/>
+    </pattern>
+    <linearGradient id="glow">
+      <stop stop-color="#11110e"/>
+      <stop offset="1" stop-color="#242d0d"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="310" rx="12" fill="#0a0a08" stroke="#34342e" stroke-width="2"/>
+  <rect x="2" y="2" width="956" height="308" rx="10" fill="url(#grid)"/>
+  <rect x="32" y="28" width="896" height="256" rx="6" fill="url(#glow)" stroke="#5a5a4e"/>
+  <path d="M32 73H928 M32 239H928" stroke="#5a5a4e"/>
+  <circle cx="55" cy="51" r="4" fill="#ff5c35"/>
+  <circle cx="70" cy="51" r="4" fill="#98988e"/>
+  <circle cx="85" cy="51" r="4" fill="#c7ff18"/>
+  <g font-family="'IBM Plex Mono', Consolas, monospace" font-size="17">
+    <text x="102" y="57" fill="#b4b4a8">diogo@portfolio: ~</text>
+    <text x="56" y="114" fill="#c7ff18">$ whoami</text>
+    <text x="56" y="216" fill="#f2f0e8">Computer Engineer · Cybersecurity &amp; Digital Forensics</text>
+    <text x="56" y="269" fill="#b4b4a8">PORTUGAL / SECURITY · ENGINEERING · GRC</text>
+  </g>
+  <text x="53" y="180" fill="#f2f0e8" font-family="'Archivo Black', Arial, sans-serif" font-weight="900" font-size="64">Diogo <tspan fill="#c7ff18">Andrade</tspan></text>
+</svg>

@@ -1,26 +1,50 @@
-Hi My name is Diogo Andrade
-======================================================================================================================================
+<a href="https://diogoma2002.github.io/">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Diogo Andrade · Computer Engineer · Cybersecurity &amp; Digital Forensics">
+</a>
 
-Computer Engineer
------------------
-
-Welcome! I'm Diogo
-
-Computer Engineer from Portugal, currently pursuing an MSc in Cybersecurity and Digital Forensics.
-
-I have professional experience in cybersecurity research, having conducted security diagnostics and maturity assessments across more than 80 organisations. I have also worked as an Invited Teaching Assistant in areas such as systems administration, operating systems, databases, and computer technology.
-
-My main interests include security operations, threat detection, digital forensics, penetration testing, governance and risk, and secure software development.
-
-* I'm based in Portugal
-* See my portfolio at [My Portfolio](https://diogoma2002.github.io/)
-* You can contact me at [psvdiogo@gmail.com](mailto:psvdiogo@gmail.com)
-
-<p align="left">
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+<p align="center">
+  <a href="https://diogoma2002.github.io/"><strong>Portfolio ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/diogo-andrade-851185274/">LinkedIn ↗</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:psvdiogo@gmail.com">Email ↗</a>
 </p>
 
-### Socials
+## `$ whoami`
 
-<p align="left"> <a href="https://www.github.com/DiogoMA2002" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/diogo-andrade-851185274" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+I’m a Computer Engineer based in Portugal with an MSc in Cybersecurity and Digital Forensics. I assess systems, investigate threats and turn security findings into practical improvements.
 
+As a cybersecurity researcher, I carried out security diagnostics and maturity assessments across **80+ organisations**. I also worked as an Invited Teaching Assistant in systems administration, operating systems, databases and computer technology.
+
+## `$ cat stack.txt`
+
+| Area | Tools and practices |
+| --- | --- |
+| Security & detection | `Wazuh` `YARA` `SIEM` `Digital forensics` |
+| Governance & risk | `Security assessments` `Maturity assessments` `Risk analysis` |
+| Languages | `Java` `Python` `Bash` `SQL` |
+| Application development | `Spring Boot` `Vue.js` `Node.js` |
+| Systems & infrastructure | `Linux` `Docker` `Kubernetes` `Proxmox` `OPNsense` `Git` |
+
+## `$ ls projects/`
+
+| Project | Focus |
+| --- | --- |
+| [Risk Matrix](https://github.com/DiogoMA2002/risk_matrix) | A web application for assessing and visualising organisational risk. |
+| [Blue Team Operations Lab](https://github.com/DiogoMA2002/blue-team-operations-lab) | A lab for security monitoring, with Active Directory, network segmentation and SIEM telemetry. |
+| [HomeLab](https://github.com/DiogoMA2002/HomeLab) | A documented virtualised environment for experimenting with network and infrastructure design. |
+
+## `$ cat highlights.txt`
+
+| **80+** | **211K+** |
+| :---: | :---: |
+| Organisations assessed | SIEM events analysed |
+
+## `$ gh activity`
+
+<p align="center">
+  <a href="https://github.com/DiogoMA2002#contribution-activity"><img width="48%" src="./assets/stats.svg" alt="GitHub activity statistics for DiogoMA2002"></a>
+  <a href="https://github.com/DiogoMA2002?tab=repositories"><img width="48%" src="./assets/languages.svg" alt="Most-used languages in DiogoMA2002’s public repositories"></a>
+</p>
+
+[View my GitHub contributions and recent activity ↗](https://github.com/DiogoMA2002#contribution-activity)

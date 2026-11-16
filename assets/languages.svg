@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="218" viewBox="0 0 424 218" role="img" aria-labelledby="title">
+  <title id="title">Most-used languages by bytes in public repositories</title>
+  <rect x="1" y="1" width="422" height="216" rx="9" fill="#11110e" stroke="#34342e"/>
+  <path d="M1 38H423" stroke="#34342e"/>
+  <circle cx="17" cy="19" r="3" fill="#ff5c35"/>
+  <circle cx="29" cy="19" r="3" fill="#98988e"/>
+  <circle cx="41" cy="19" r="3" fill="#c7ff18"/>
+  <g font-family="Consolas, monospace" font-size="12" fill="#f2f0e8">
+    <text x="55" y="23" fill="#98988e">diogo@github: ~</text>
+    <text x="26" y="65" fill="#c7ff18">$ github linguist</text>
+    <text x='26' y='106'>Java</text><rect x='178' y='98' width='79' height='7' rx='2' fill='#c7ff18'/><text x='396' y='106' text-anchor='end'>52.8 %</text>
+<text x='26' y='124'>Vue</text><rect x='178' y='116' width='51' height='7' rx='2' fill='#c7ff18'/><text x='396' y='124' text-anchor='end'>34.1 %</text>
+<text x='26' y='142'>CSS</text><rect x='178' y='134' width='6' height='7' rx='2' fill='#c7ff18'/><text x='396' y='142' text-anchor='end'>4.2 %</text>
+<text x='26' y='160'>HTML</text><rect x='178' y='152' width='5' height='7' rx='2' fill='#c7ff18'/><text x='396' y='160' text-anchor='end'>3.1 %</text>
+<text x='26' y='178'>JavaScript</text><rect x='178' y='170' width='4' height='7' rx='2' fill='#c7ff18'/><text x='396' y='178' text-anchor='end'>2.9 %</text><text x='26' y='203' fill='#98988e'>BY BYTES / PUBLIC REPOSITORIES</text>
+  </g>
+</svg>
