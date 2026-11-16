@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="784" viewBox="0 0 760 784" role="img" aria-labelledby="title description">
+  <title id="title">Diogo Andrade · Computer Engineer</title>
+  <desc id="description">Biography and technical stack for Diogo Andrade, a computer engineer based in Portugal.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#34342e" opacity=".55"/>
+    </pattern>
+    <linearGradient id="hero">
+      <stop stop-color="#11110e"/>
+      <stop offset="1" stop-color="#242d0d"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="758" height="782" rx="14" fill="#0a0a08" stroke="#34342e" stroke-width="2"/>
+  <rect x="2" y="2" width="756" height="780" rx="13" fill="url(#grid)"/>
+  <rect x="24" y="24" width="712" height="736" rx="8" fill="#11110e" stroke="#5a5a4e"/>
+  <path d="M25 70H735V265H25Z" fill="url(#hero)"/>
+  <path d="M24 70H736 M24 265H736 M24 480H736" stroke="#34342e"/>
+  <circle cx="47" cy="47" r="4" fill="#ff5c35"/>
+  <circle cx="62" cy="47" r="4" fill="#98988e"/>
+  <circle cx="77" cy="47" r="4" fill="#c7ff18"/>
+
+  <g font-family="'IBM Plex Mono', Consolas, monospace" fill="#c7ff18" font-size="18">
+    <text x="95" y="53" fill="#b4b4a8" font-size="16">diogo@portfolio: ~</text>
+    <text x="48" y="112">$ whoami</text>
+    <text x="48" y="241" fill="#b4b4a8" font-size="16">PORTUGAL / SECURITY · ENGINEERING · GRC</text>
+    <text x="48" y="523">$ cat stack.txt</text>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#f2f0e8">
+    <text x="44" y="176" font-family="'Archivo Black', Arial, sans-serif" font-weight="900" font-size="64">Diogo <tspan fill="#c7ff18">Andrade</tspan></text>
+    <text x="48" y="210" font-size="21" font-weight="700">Computer Engineer · Cybersecurity &amp; Digital Forensics</text>
+    <text x="48" y="307" font-size="19">
+      <tspan x="48">I’m a Computer Engineer based in Portugal with an MSc in Cybersecurity</tspan>
+      <tspan x="48" dy="27">and Digital Forensics. I assess systems, investigate threats and turn</tspan>
+      <tspan x="48" dy="27">security findings into practical improvements.</tspan>
+      <tspan x="48" dy="36">I carried out security diagnostics and maturity assessments across</tspan>
+      <tspan x="48" dy="27"><tspan fill="#c7ff18" font-weight="700">80+ organisations</tspan> and taught systems administration, operating</tspan>
+      <tspan x="48" dy="27">systems, databases and computer technology as a teaching assistant.</tspan>
+    </text>
+  </g>
+
+  <g font-family="'IBM Plex Mono', Consolas, monospace" font-size="15">
+    <path d="M48 542H712V727H48Z M48 579H712 M48 616H712 M48 653H712 M48 690H712 M275 542V727" fill="none" stroke="#34342e"/>
+    <g fill="#c7ff18">
+      <text x="60" y="565">Security &amp; detection</text>
+      <text x="60" y="602">Governance &amp; risk</text>
+      <text x="60" y="639">Languages</text>
+      <text x="60" y="676">Application development</text>
+      <text x="60" y="713">Systems &amp; infrastructure</text>
+    </g>
+    <g fill="#f2f0e8">
+      <text x="288" y="565">Wazuh · YARA · SIEM · Digital forensics</text>
+      <text x="288" y="602">Security &amp; maturity assessments · Risk analysis</text>
+      <text x="288" y="639">Java · Python · Bash · SQL</text>
+      <text x="288" y="676">Spring Boot · Vue.js · Node.js</text>
+      <text x="288" y="713" font-size="13">Linux · Docker · Kubernetes · Proxmox · OPNsense · Git</text>
+    </g>
+  </g>
+</svg>
